@@ -1,5 +1,11 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+## Read me Portion for submitted assignment
+
+This contains the refactored code for the assigned task. All HTML elements have been changed to semantic elements, and the page has been edited to increase accessibility standards, as well as completing other assigned tasks.
+
+link: https://donnie1129.github.io/Challenge_1/
+
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
